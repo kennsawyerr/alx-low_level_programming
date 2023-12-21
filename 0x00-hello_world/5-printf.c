@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
- * main - Entry point
+ * main - using the printf command, print a line of code
  *
- * Retunr : Always 0 (Success)
+ * Return : Always 0 (Success)
  */
 int main(void)
 {
