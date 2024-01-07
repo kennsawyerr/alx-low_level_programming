@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
   * _strncat  - the main function
   *
